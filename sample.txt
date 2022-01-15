@@ -1,5 +1,9 @@
-One
+iOne
 Two
 Ready!`
+<<<<<<< HEAD
 conflict
+=======
+edit fixed
+>>>>>>> cd5b53dd80ef81e2d0ba42c6d62994d143e5f26f
 
